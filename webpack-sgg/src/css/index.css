@@ -1,0 +1,7 @@
+.box1 {
+    display: flex;
+    width: 00px;
+    height: 00px;
+    background-image: url('../img/vue.jpeg');
+    background-size: cover;
+}
